@@ -26,7 +26,7 @@ belief X, the less people will, ultimately, support X.
     the everyone believes something to be true is not decisive enough evidence
     as there was a number of occasions when the public was wrong about facts.
 
-    There can still be a disagreement on an issues when people in question
+    There can still be a disagreement on issues when people in question
     don't share common values, however by institutionalising social norms we
     are further distancing the public from realising *where* exactly the
     disagreement lies.
