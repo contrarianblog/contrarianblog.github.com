@@ -28,8 +28,10 @@ belief X, the less people will, ultimately, support X.
 
     There can still be a disagreement on issues when people in question
     don't share common values, however by institutionalising social norms we
-    are further distancing the public from realising *where* exactly the
-    disagreement lies.
+    are further distancing the public from realising *where exactly* the
+    disagreement lies. People are missing a chance to find out what sort of
+    core values they do not share. This precludes from more productive
+    discussions.
 
     We are discouraging public debate about certain things which can only lead
     to further manipulation of the public opinion, since we are discouraging
@@ -47,10 +49,10 @@ come from those who share their beliefs.
     people to learn how to counter some of their emotions - such a skill could
     be more valuable overtime.
 
-    Moreover, I do not expect this to be a major benefit. Firstly, I would imagine that most
-    people do not have a strong opinion on most of the controversial
-    topics. Secondly, most of the time people will also have a competing product
-    to choose from.
+    Moreover, I do not expect this to be a major benefit. Firstly, I would
+    imagine that most people do not have a strong opinion on most of the
+    controversial topics. Secondly, most of the time people will also have a
+    competing product to choose from.
 3. Higher employee satisfaction: a number of people are not comfortable with
 the idea of working for a company where employees voice unpopular views.
 
