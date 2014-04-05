@@ -56,10 +56,11 @@ come from those who share their beliefs.
 3. Higher employee satisfaction: a number of people are not comfortable with
 the idea of working for a company where employees voice unpopular views.
 
-    *Rebuttal:* Again, promoting association bias. However, there is even
+    *Rebuttal:* Again, promoting association bias: does it really have an
+    effect on their working environment? However, there is even
     more important counter argument: increasing fear of losing jobs and becoming less
     competitive candidates. There is a reason I write this blog anonymously:
     companies might not be happy about hiring people who agree with the above social
     norm. And despite the fact the most people don't have an opinion on most
     controversial topics, the negative of losing a job for the few who do is so
-    large that it completly negates the measly positives mentioned above.
+    large that it completly negates the measly positives mentioned above
