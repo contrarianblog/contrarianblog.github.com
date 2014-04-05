@@ -36,7 +36,7 @@ belief X, the less people will, ultimately, support X.
     We are discouraging public debate about certain things which can only lead
     to further manipulation of the public opinion, since we are discouraging
     people from evaluating the arguments themselves.
-    It is more beneficial if stupid beliefs died out by the means of a
+    It would be more beneficial if stupid beliefs died out by the means of a
     debate where arguments for the beliefs are countered one by one in a manner
     I am presenting here.
 2. Higher customer satisfaction: a number of people want their products to only
