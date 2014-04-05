@@ -42,7 +42,7 @@ belief X, the less people will, ultimately, support X.
 2. Higher customer satisfaction: a number of people want their products to only
 come from those who share their beliefs.
 
-    *Rebuttal:* We are only encouraging a cognitive bias by association.
+    *Rebuttal:* We are only encouraging a cognitive bias of association.
     Instead of encouraging people to think about how much of an impact
     employees' opinions have on the quality of the products we put greater
     value on how people *feel* about the products. I would rather we encouraged
