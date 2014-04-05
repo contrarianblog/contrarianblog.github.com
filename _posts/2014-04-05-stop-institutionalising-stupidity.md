@@ -49,10 +49,10 @@ come from those who share their beliefs.
 
     However, for the rest of the people, who are
     really unhappy when forced to deal with their emotions,
-    I do not expect this to be a major benefit, as I would imagine that most
+    I do not expect this to be a major benefit. Firstly, I would imagine that most
     people do not have a strong opinion on most of the controversial
-    topics. I can imagine that most of the time people will also have a
-    competing option to choose from.
+    topics. Moreover, most of the time people will also have a competing product
+    to choose from.
 3. Higher employee satisfaction: a number of people are not comfortable with
 the idea of working for a company where employees voice unpopular views.
 
