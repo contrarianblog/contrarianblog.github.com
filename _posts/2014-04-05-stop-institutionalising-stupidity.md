@@ -47,7 +47,7 @@ come from those who share their beliefs.
     employees' opinions have on the quality of the products we put greater
     value on how people *feel* about the products. I would rather we encouraged
     people to learn how to counter some of their emotions - such a skill could
-    be more valuable overtime.
+    be more valuable over time.
 
     Moreover, I do not expect this to be a major benefit. Firstly, I would
     imagine that most people do not have a strong opinion on most of the
