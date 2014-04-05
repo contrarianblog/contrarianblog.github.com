@@ -17,7 +17,8 @@ above social norm is decided upon the impact on the society.
 
 Arguments against the above social norm:
 
-1. Unpopular beliefs dying out. The less people voice their support for a belief X, the less people will, ultimately, support X.
+1. Unpopular beliefs dying out. The less people voice their support for a
+belief X, the less people will, ultimately, support X.
 
     *Rebuttal:* We are encouraging people to use a consensus fallacy, i.e.
     deciding truths upon how many people believe in it. Truth is not a
@@ -55,10 +56,10 @@ come from those who share their beliefs.
 3. Higher employee satisfaction: a number of people are not comfortable with
 the idea of working for a company where employees voice unpopular views.
 
-    *Rebuttal:* Again, promoting association bias. However, there is the
-    largest counter argument: increasing fear of losing jobs and becoming less
+    *Rebuttal:* Again, promoting association bias. However, there is even
+    more important counter argument: increasing fear of losing jobs and becoming less
     competitive candidates. There is a reason I write this blog anonymously:
-    companies might not be happy to hire people who agree with the above social
+    companies might not be happy about hiring people who agree with the above social
     norm. And despite the fact the most people don't have an opinion on most
     controversial topics, the negative of losing a job is so big, that it
     easily makes up for that.
