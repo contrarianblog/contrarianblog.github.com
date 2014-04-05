@@ -61,5 +61,5 @@ the idea of working for a company where employees voice unpopular views.
     competitive candidates. There is a reason I write this blog anonymously:
     companies might not be happy about hiring people who agree with the above social
     norm. And despite the fact the most people don't have an opinion on most
-    controversial topics, the negative of losing a job is so big, that it
+    controversial topics, the negative of losing a job is so large, that it
     easily makes up for that.
