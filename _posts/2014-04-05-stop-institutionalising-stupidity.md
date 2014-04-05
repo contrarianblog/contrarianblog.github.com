@@ -47,9 +47,7 @@ come from those who share their beliefs.
     people to learn how to counter some of their emotions - such a skill could
     be more valuable overtime.
 
-    However, for the rest of the people, who are
-    really unhappy when forced to deal with their emotions,
-    I do not expect this to be a major benefit. Firstly, I would imagine that most
+    Moreover, I do not expect this to be a major benefit. Firstly, I would imagine that most
     people do not have a strong opinion on most of the controversial
     topics. Secondly, most of the time people will also have a competing product
     to choose from.
