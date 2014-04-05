@@ -63,4 +63,4 @@ the idea of working for a company where employees voice unpopular views.
     companies might not be happy about hiring people who agree with the above social
     norm. And despite the fact the most people don't have an opinion on most
     controversial topics, the negative of losing a job for the few who do is so
-    large that it completly negates the measly positives mentioned above
+    large that it completly negates the measly positives mentioned above.
