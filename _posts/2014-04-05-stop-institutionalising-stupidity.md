@@ -20,7 +20,7 @@ Arguments against the above social norm ordered by the importance:
     There can still be a disagreement on an issues when people in question don't share common values, however by institutionalising social norms we are further distancing the public from realising *where* exactly the disagreement lies.
 
     We are discouraging public debate about certain things which can only lead to further manipulation of the public opinion, since we are discouraging people from evaluating the arguments themselves.
-    I would rather the stupid beliefs died out by the means of a debate where arguments for the beliefs are countered one by one in a manner I am presenting here.
+    It is more beneficial if the stupid beliefs died out by the means of a debate where arguments for the beliefs are countered one by one in a manner I am presenting here.
 2. Higher customer satisfaction: a number of people want their products to only come from those who share their beliefs.
 
     *Rebuttal:* We are only encouraging a cognitive bias by association.
