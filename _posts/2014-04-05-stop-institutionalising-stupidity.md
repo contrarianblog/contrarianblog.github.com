@@ -15,7 +15,7 @@ Arguments against the above social norm ordered by the importance:
 
 1. Unpopular beliefs dying out. The less people voice their support for a belief X, the less people will, ultimately, support X.
 
-    *Rebuttal:* We are encouraging people to use consensus fallacy, i.e. deciding truths upon how many people believe in it. Truth is not a popularity contest. We only establish the truth using *evidence*. The fact the everyone believes it to be true is not decisive enough and there was a number of occasions when the public was wrong about facts.
+    *Rebuttal:* We are encouraging people to use a consensus fallacy, i.e. deciding truths upon how many people believe in it. Truth is not a popularity contest. We only establish the truth using *evidence*. The fact the everyone believes it to be true is not decisive enough and there was a number of occasions when the public was wrong about facts.
 
     There can still be a disagreement on an issues when people in question don't share common values, however by institutionalising social norms we are further distancing the public from realising *where* exactly the disagreement lies.
 
